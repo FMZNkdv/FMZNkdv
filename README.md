@@ -3,7 +3,7 @@
 - I am engaged in reverse engineering, modding, designing & bot developing.
 ------
 
-## My projects
+## My open sourse projects:
 ```
 fmznk@penguin:~$ ls
 ```
@@ -17,7 +17,7 @@ mojang/
 └── 🧱 McUtils  - Public Bots for Minecraft java
 ```
 
-## Social
+## Social:
 - **Discord**: [fmznk](https://discord.com/users/815240398477721623)
 - **Telegram**: [fmznkdv](https://t.me/fmznkdv)
 - **4pda**: [fmznkdv](https://4pda.to/forum/index.php?showuser=12132257)
