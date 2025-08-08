@@ -12,6 +12,9 @@ supercell/
 ├── ☕ ClashJdk - Open source Clash Of Clans
 ├── ⚡ SC:CORE  - Brawl Stars Core on
 └── 🤖 BsUtils  - Public Bots for Brawl Stars
+
+mojang/
+└── 🧱 McBsUtils  - Public Bots for Minecraft java
 ```
 
 ## Social
