@@ -9,9 +9,7 @@ fmznk@penguin:~$ ls
 ```
 ```
 supercell/
-├── ☕ ClashJdk - Open source Clash Of Clans
-├── ⚡ SC:CORE  - Brawl Stars Core on
-├── 🍁 FRBS     - (project development)
+├── ⚡ SC:CORE  - Supercell Core 
 └── 🤖 BsUtils  - Public Bots for Brawl Stars
 
 mojang/
