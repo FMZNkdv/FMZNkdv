@@ -1,5 +1,5 @@
 # I'm **FMZNkdv**! 🥞
-- Java, Ruby, Node.js & Kotlin developer.
+- Java, Node.js & Kotlin developer.
 - I am engaged in reverse engineering, modding, designing & bot developing.
 ------
 
