@@ -12,10 +12,10 @@ supercell/
 ├── BeachOriginal - My server for Boom Beach
 ├── JuJuBrawl - Mods on Brawl Stars
 ├── ClashOffline - Offline client for Clash Of Clans
-└── BsUtils  - Public Bots for Brawl Stars
+└── BsUtils - Public Bots for Brawl Stars
 
 mojang/
-└── McUtils  - Public Bots for Minecraft java
+└── McUtils - Public Bots for Minecraft java
 
 other/
 ├── Duckdroid - Analogue Frida
