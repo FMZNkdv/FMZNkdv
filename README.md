@@ -20,6 +20,7 @@ mojang/
 other/
 ├── Duckdroid - Analogue Frida
 ├── Open8B - 8-bit chip emulator
+├── Raccgram - Telegram mod
 └── Xnterz - Ghidra(ida) on Android
 ```
 
@@ -28,4 +29,4 @@ other/
 - **Telegram**: [fmznkdv](https://t.me/fmznkdv)
 - **4pda**: [fmznkdv](https://4pda.to/forum/index.php?showuser=12132257)
 - **Tik Tok**: [fmznk](https://www.tiktok.com/@fmznk?_t=ZP-8xDzAYJRVR0&_r=1)
-- **Email**: me@fmznkdv.lol
+- **Email**: me@fmznk.dev
